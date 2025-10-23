@@ -94,6 +94,10 @@ For more resources definitely check out the amazing group of devs over at the Wi
 | "outline" | bool | obs.obs_data_set_bool() |
 | "outline_color" | int | obs.obs_data_set_int() |
 | "outline_size" | int | obs.obs_data_set_int() |
+| "extents" | bool | obs.obs_data_set_bool() |
+| "extents_cx" | int | obs.obs_data_set_int() |
+| "extents_cy" | int | obs.obs_data_set_int() |
+
 
 ## Color_Filter Setting Keys
 
